@@ -140,5 +140,9 @@ crud-fullstack/
 - **Cors**: Middleware para permitir requisições de diferentes origens.
 - **Nodemon (opcional)**: Reinicia o servidor automaticamente durante o desenvolvimento.
 
+### Visual
+![image](https://github.com/user-attachments/assets/2c05f5c0-cab2-4f8d-8d9d-e14331916c39)
+
+
 ---
 Desenvolvido por **[Mateus Calixto](https://github.com/Mateus-Calixto)** 🚀
